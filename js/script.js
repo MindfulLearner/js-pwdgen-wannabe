@@ -8,6 +8,11 @@ document.writeln(`Ti chiami: ${nomeUtente}, di cognome fai ${cognomeUtente} e ti
 
 
 
+if (nomeUtente == "josh") {
+	console.log("swag");
+} else {
+	console.log("ni");
+}
 
 
 
